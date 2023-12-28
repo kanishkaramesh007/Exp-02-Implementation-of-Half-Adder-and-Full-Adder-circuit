@@ -49,14 +49,17 @@ RTL realization
 
 ### Output:
 ### RTL
-![image](https://github.com/kanishkaramesh007/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/147321636/c76ccb72-77d6-4f52-81d0-2484a636fe40)
+![image](https://github.com/kanishkaramesh007/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/147321636/4d038307-9541-4324-9559-3766c12f6af1)
+
 
 ### TIMING DIAGRAM
-![image](https://github.com/kanishkaramesh007/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/147321636/ca107d57-711a-415a-8f9a-59ae84cfd0fe)
+![image](https://github.com/kanishkaramesh007/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/147321636/c00c208e-10de-44a7-af6c-22cbc758c7f0)
+
 
 
 ### TRUTH TABLE 
-![image](https://github.com/kanishkaramesh007/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/147321636/add31bf5-f0f9-47a4-8a8d-d853cade4bb7)
+![image](https://github.com/kanishkaramesh007/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/147321636/5915f2b7-1394-458d-91bb-5c9ea9412895)
+
 
 
 
